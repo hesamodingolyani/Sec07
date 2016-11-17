@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sec 06</string>
+    <string name="welcome">به پژوهشکده ثامن خوش آمدید</string>
+    <string name="firstcomment">پژوهشگر گرامی چنانچه قبلاً عملیات ثبت نام را انجام داده اید از گزینه ورود به سیستم استفاده نمایید . در غیر اینصورت با انتخاب گزینه ثبت نام می توانید عملیات ثبت نام را آغاز نمایید .</string>
+    <string name="signin">ورود به سیستم</string>
+    <string name="signup">ثبت نام</string>
+    <string name="register">ثبت</string>
+    <string name="confirm_registering">تائید اطلاعات</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="loginactivitytitle">ورود به نرم افزار</string>
+    <string name="username">نام کاربری</string>
+    <string name="password">کلمه عبور</string>
+    <string name="registering">ثبت نام</string>
+
+
+</resources>
